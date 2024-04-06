@@ -1,7 +1,6 @@
 {
   "name": "sn-theme-dark-sense",
   "version": "1.0",
-  "main": "theme.css",
   "sn": {
     "main": "theme.css"
   },
