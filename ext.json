@@ -13,7 +13,7 @@ metatype: json
   "download_url": "https://github.com/rsharuru/sn-theme-dark-sense/archive/1.0.zip",
   "marketing_url": "https://github.com/rsharuru/sn-theme-dark-sense",
   "latest_url": "https://listed.to/p/iZ19sSTBwr",
-  "thumbnail_url": "",
+  "thumbnail_url": "https://raw.githubusercontent.com/rsharuru/sn-theme-dark-sense/main/preview.png",
   "dock_icon": {
     "type": "circle",
     "background_color": "#181818",
