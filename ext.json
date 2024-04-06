@@ -5,7 +5,7 @@
   "area": "themes",
   "version": "1.0",
   "description": "Dark Sense.",
-  "url": "https://cdn.jsdelivr.net/gh/rsharuru/sn-theme-dark-sense@main/dist/dist.css",
+  "url": "https://cdn.jsdelivr.net/gh/rsharuru/sn-theme-dark-sense@main/theme.css",
   "download_url": "https://github.com/rsharuru/sn-theme-dark-sense/archive/1.0.zip",
   "marketing_url": "https://github.com/rsharuru/sn-theme-dark-sense",
   "latest_url": "https://listed.to/p/iZ19sSTBwr",
@@ -18,4 +18,3 @@
   },
   "statusBar": "dark-content"
 }
-	
