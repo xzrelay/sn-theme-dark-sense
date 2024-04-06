@@ -1,0 +1,11 @@
+{
+  "name": "sn-theme-dark-sense",
+  "version": "1.0",
+  "sn": {
+    "main": "dist/dist.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rsharuru/sn-theme-dark-sense.git"
+  }
+}

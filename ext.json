@@ -1,0 +1,25 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "dev.haruru.sn-theme-dark-sense",
+  "name": "Dark Sense",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0",
+  "description": "Dark Sense.",
+  "url": "https://cdn.jsdelivr.net/gh/rsharuru/sn-theme-dark-sense@main/dist/dist.css",
+  "download_url": "https://github.com/rsharuru/sn-theme-dark-sense/archive/1.0.zip",
+  "marketing_url": "https://github.com/rsharuru/sn-theme-dark-sense",
+  "latest_url": "https://listed.to/p/iZ19sSTBwr",
+  "thumbnail_url": "",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#181818",
+    "foreground_color": "#181818",
+    "border_color": "#d55fde"
+  },
+  "statusBar": "dark-content"
+}
+	

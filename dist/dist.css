@@ -1,0 +1,13 @@
+:root {
+  --background-1: rgb(24, 24, 24);
+  --background-2: rgb(24, 24, 24);
+  --foreground-1: rgb(204, 204, 204);
+  --foreground-2: rgb(204, 204, 204);
+  --foreground-3: #abb2bf;
+  --highlight-color: #2c313a;
+  --neutral-color: #72767e;
+  --danger-color: #cc241d;
+  --success-color: #458588;
+  --warning-color: #d65d0e;
+  --border-color: #181a1f;
+}
