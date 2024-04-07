@@ -1,6 +1,6 @@
 # Dark Sense Theme for Standard Notes
 
-Theme for [Standard Notes](https://standardnotes.com/). Based on VS Code.
+Theme for [Standard Notes](https://standardnotes.com/). Perfect for writing in the dark.
 
 ## Preview
 
@@ -13,5 +13,5 @@ Theme for [Standard Notes](https://standardnotes.com/). Based on VS Code.
 3. Copy and paste an install link from the below.
 
 ```txt
-
+https://listed.to/p/iZ19sSTBwr
 ```
