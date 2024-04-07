@@ -15,6 +15,5 @@
     "background_color": "#0F0F0F",
     "foreground_color": "#0F0F0F",
     "border_color": "#181a1b"
-  },
-  "statusBar": "dark-content"
+  }
 }
