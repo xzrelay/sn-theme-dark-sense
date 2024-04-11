@@ -10,11 +10,11 @@
   --success-color: #458588;
   --warning-color: #d65d0e;
   --border-color: #181a1b;
-  
   --navigation-item-selected-background-color: #bbbec43d;
   --sn-stylekit-passive-color-3: #515357;
-  
-   --sn-stylekit-info-color: var(--highlight-color);
+  --sn-stylekit-passive-color-4: #191919;
+  --sn-stylekit-passive-color-5: #191919;
+  --sn-stylekit-info-color: var(--highlight-color);
   --sn-stylekit-info-contrast-color: var(--foreground-1);
   --sn-stylekit-neutral-color: var(--neutral-color);
   --sn-stylekit-neutral-contrast-color: var(--background-2);
@@ -50,6 +50,6 @@
   --sn-desktop-titlebar-ui-hover-color: var(--highlight-color);
 }
 
-textarea {
+textarea, .blocks-editor {
   caret-color: #086dd6;
 }
