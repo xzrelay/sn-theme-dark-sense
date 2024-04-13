@@ -1,6 +1,6 @@
 :root {
   --background-1: #0F0F0F;
-  --background-2: #191919;
+  --background-2: #1a1a1a;
   --foreground-1: #CCCCCC;
   --foreground-2: #CCCCCC;
   --foreground-3: #CCCCCC;
@@ -12,8 +12,8 @@
   --border-color: #181a1b;
   --navigation-item-selected-background-color: #bbbec43d;
   --sn-stylekit-passive-color-3: #515357;
-  --sn-stylekit-passive-color-4: #191919;
-  --sn-stylekit-passive-color-5: #191919;
+  --sn-stylekit-passive-color-4: #1a1a1a;
+  --sn-stylekit-passive-color-5: #1a1a1a;
   --sn-stylekit-info-color: var(--highlight-color);
   --sn-stylekit-info-contrast-color: var(--foreground-1);
   --sn-stylekit-neutral-color: var(--neutral-color);
