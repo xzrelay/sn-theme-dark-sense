@@ -53,3 +53,7 @@
 textarea, .blocks-editor {
   caret-color: #086dd6;
 }
+
+#note-text-editor, #super-editor-content {
+  line-height: 2;
+}

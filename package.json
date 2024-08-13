@@ -1,12 +1,12 @@
 {
   "name": "sn-theme-dark-sense",
-  "version": "1.4",
+  "version": "1.5",
   "sn": {
     "main": "theme.css",
     "dock_icon": {
       "type": "circle",
-      "background_color": "#0F0F0F",
-      "foreground_color": "#0F0F0F",
+      "background_color": "#0f0f0f",
+      "foreground_color": "#0f0f0f",
       "border_color": "#181a1b"
     }
   },
