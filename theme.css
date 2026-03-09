@@ -14,7 +14,7 @@
   --sn-stylekit-passive-color-3: #515357;
   --sn-stylekit-passive-color-4: #1a1a1a;
   --sn-stylekit-passive-color-5: #1a1a1a;
-  --sn-stylekit-info-color: var(--highlight-color);
+  --sn-stylekit-info-color: #515357;
   --sn-stylekit-info-contrast-color: var(--foreground-1);
   --sn-stylekit-neutral-color: var(--neutral-color);
   --sn-stylekit-neutral-contrast-color: var(--background-2);
