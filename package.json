@@ -1,6 +1,6 @@
 {
   "name": "sn-theme-dark-sense",
-  "version": "1.7",
+  "version": "1.8",
   "sn": {
     "main": "theme.css",
     "dock_icon": {
